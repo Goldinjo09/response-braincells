@@ -1,0 +1,41 @@
+/* Style for the body element */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+/* Style for the header element */
+h1 {
+  font-size: 36px;
+  text-align: center;
+  color: #333;
+  margin-top: 50px;
+}
+
+/* Style for the paragraph element */
+p {
+  font-size: 18px;
+  text-align: center;
+  color: #666;
+  margin-top: 20px;
+}
+
+/* Style for the Discord invite button */
+a img:first-of-type {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+  height: 50px;
+  margin-top: 40px;
+}
+
+/* Style for the Twitch button */
+a img:last-of-type {
+  display: block;
+  margin: 0 auto;
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+}
